@@ -14,5 +14,3 @@ A beginner-friendly project to manage students, courses, marks, and attendance.
 - Database: SQLite / MySQL
 - Frontend: HTML, CSS
 
-## Status
-Project setup completed (Day 1)
