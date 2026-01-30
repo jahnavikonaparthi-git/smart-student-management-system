@@ -1,2 +1,19 @@
 # smart-student-management-system
-smart-student-management-system/    ← ROOT (put README here) │ ├── README.md                     ← Here! ├── app.py ├── requirements.txt ├── database/ │   └── schema.sql ├── templates/ │   └── login.html └── static/     └── style.css
+# Smart Student Management System
+
+A beginner-friendly project to manage students, courses, marks, and attendance.
+
+## Features
+- Student registration & login
+- Course enrollment
+- Marks management
+- Attendance tracking
+- Role-based access (Admin / Student)
+
+## Tech Stack
+- Backend: Python (Flask)
+- Database: SQLite / MySQL
+- Frontend: HTML, CSS
+
+## Status
+Project setup completed (Day 1)
