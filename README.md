@@ -1,4 +1,3 @@
-# smart-student-management-system
 # Smart Student Management System
 
 A beginner-friendly project to manage students, courses, marks, and attendance.
